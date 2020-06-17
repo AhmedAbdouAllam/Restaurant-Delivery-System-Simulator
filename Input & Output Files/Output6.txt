@@ -1,0 +1,85 @@
+ Region A:
+FT   ID   AT    WT   ST
+7    44    5    0    1
+7    44    5    0    1
+9    11    5    0    2
+9    11    5    0    2
+9    51    5    0    2
+7    55    5    0    1
+9    81    5    0    2
+7    85    5    0    1
+15    4    5    0    5
+15    8    12    0    1
+16    15    12    0    2
+23    8    5    0    9
+13    9    7    0    3
+17    13    10    0    3
+27    6    25    0    1
+28    28    22    3    1
+ Orders: 16 [Norm: 3, Froz:3, VIP:4,Politicians: 3Disabled: 3]
+ MotorC: 18 [Norm: 8, Froz:6, VIP:4]
+Avg Wait =0.1875, Avg Serv =2.3125
+ Region B:
+FT   ID   AT    WT   ST
+5    11    5    0    0
+8    8    5    0    1
+8    52    5    0    1
+8    82    5    0    1
+5    11    5    0    0
+5    100    5    0    0
+9    12    9    0    0
+12    16    12    0    0
+15    7    12    0    1
+16    20    15    0    0
+25    1    5    0    10
+17    5    5    0    6
+28    6    25    0    1
+25    26    20    5    0
+32    30    23    2    3
+ Orders: 15 [Norm: 3, Froz:3, VIP:5,Politicians: 3Disabled: 1]
+ MotorC: 18 [Norm: 8, Froz:6, VIP:4]
+Avg Wait =0.466667, Avg Serv =1.6
+ Region C:
+FT    ID    AT     WT    ST
+6    22    5    0    0
+5    11    5    0    0
+6    22    5    0    0
+8    53    5    0    1
+8    83    5    0    1
+5    11    5    0    0
+7    10    7    0    0
+11    2    5    0    3
+11    14    11    0    0
+14    8    12    0    1
+19    6    5    0    7
+28    5    25    0    1
+38    17    14    0    12
+30    32    23    2    2
+ Orders: 14 [Norm: 4, Froz:4, VIP:2,Politicians: 2,Disabled: 2]
+ MotorC: 18 [Norm: 8, Froz:6, VIP:4]
+Avg Wait =0.142857, Avg Serv =2
+ Region D:
+FT  ID  AT   WT  ST
+6    33    5    0    0
+5    11    5    0    0
+6    33    5    0    0
+7    54    5    0    1
+7    84    5    0    1
+5    11    5    0    0
+5    3    5    0    0
+14    7    12    0    1
+14    18    14    0    0
+17    19    15    0    1
+21    7    5    0    8
+18    11    9    0    4
+26    24    19    6    0
+27    7    25    0    1
+29    34    23    2    2
+29    70    25    0    2
+ Orders: 16 [Norm: 4, Froz:5, VIP:3,Politicians: 1,Disabled: 3]
+ MotorC: 18 [Norm: 8, Froz:6, VIP:4]
+Avg Wait =0.5, Avg Serv =1.3125
+  informations for whole restaurant : 
+ Orders: 61 [Norm: 14, Froz:15, VIP:14,Politicians: 9,Disabled: 9]
+ MotorC: 72 [Norm: 32, Froz:24, VIP:16]
+Avg Wait =0.327869, Avg Serv =1.80328

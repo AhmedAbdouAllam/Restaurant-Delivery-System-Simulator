@@ -1,0 +1,75 @@
+ Region A:
+FT   ID   AT    WT   ST
+7    11    5    0    1
+10    9    7    0    1
+12    11    5    5    1
+17    5    5    0    6
+17    44    5    7    2
+25    1    5    0    10
+27    15    12    5    5
+37    1    5    12    10
+37    5    5    20    6
+40    13    10    27    1
+43    28    22    5    8
+45    4    5    35    2
+48    44    5    38    2
+51    6    5    32    7
+ Orders: 14 [Norm: 0, Froz:2, VIP:7,Politicians: 2Disabled: 3]
+ MotorC: 3 [Norm: 1, Froz:1, VIP:1]
+Avg Wait =13.2857, Avg Serv =4.42857
+ Region B:
+FT   ID   AT    WT   ST
+7    11    5    0    1
+9    100    5    2    1
+12    12    9    0    1
+21    8    5    7    4
+23    2    5    0    9
+23    26    20    1    1
+23    2    5    0    9
+24    16    12    11    0
+28    20    15    8    2
+33    1    5    18    5
+33    11    5    26    1
+34    5    5    23    3
+ Orders: 12 [Norm: 2, Froz:2, VIP:6,Politicians: 1Disabled: 1]
+ MotorC: 3 [Norm: 1, Froz:1, VIP:1]
+Avg Wait =8, Avg Serv =3.08333
+ Region C:
+FT    ID    AT     WT    ST
+7    11    5    0    1
+11    10    7    0    2
+13    11    5    6    1
+16    22    5    8    1
+18    14    11    5    1
+21    3    5    0    8
+21    3    5    0    8
+28    6    5    16    3
+30    32    23    5    1
+33    17    14    7    6
+35    5    5    14    8
+ Orders: 11 [Norm: 3, Froz:3, VIP:2,Politicians: 2,Disabled: 1]
+ MotorC: 3 [Norm: 1, Froz:1, VIP:1]
+Avg Wait =5.54545, Avg Serv =3.63636
+ Region D:
+FT  ID  AT   WT  ST
+7    11    5    0    1
+9    11    5    2    1
+13    33    5    4    2
+18    18    14    0    2
+19    4    5    0    7
+19    4    5    0    7
+23    3    5    14    2
+24    19    15    3    3
+27    33    5    18    2
+27    24    19    5    1
+27    7    5    14    4
+29    34    23    4    1
+31    11    9    18    2
+31    70    25    4    1
+ Orders: 14 [Norm: 5, Froz:4, VIP:3,Politicians: 1,Disabled: 1]
+ MotorC: 3 [Norm: 1, Froz:1, VIP:1]
+Avg Wait =6.14286, Avg Serv =2.57143
+  informations for whole restaurant : 
+ Orders: 51 [Norm: 10, Froz:11, VIP:18,Politicians: 6,Disabled: 6]
+ MotorC: 12 [Norm: 4, Froz:4, VIP:4]
+Avg Wait =8.41177, Avg Serv =3.43137

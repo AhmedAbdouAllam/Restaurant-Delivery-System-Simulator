@@ -1,0 +1,71 @@
+ Region A:
+FT   ID   AT    WT   ST
+7    100    1    0    3
+12    24    12    0    0
+14    5    9    0    2
+14    6    9    0    2
+15    7    9    0    3
+15    22    14    0    0
+16    8    9    0    3
+16    9    7    8    0
+19    13    16    0    1
+20    15    16    0    2
+35    28    22    0    6
+ Orders: 11 [Norm: 6, Froz:2, VIP:2,Politicians: 1Disabled: 0]
+ MotorC: 21 [Norm: 7, Froz:7, VIP:7]
+Avg Wait =0.727273, Avg Serv =2
+ Region B:
+FT   ID   AT    WT   ST
+7    200    1    0    3
+6    400    2    0    2
+12    25    12    0    0
+14    1    6    0    4
+8    2    6    0    1
+10    3    7    0    1
+12    4    8    0    2
+15    33    14    0    0
+16    12    9    6    0
+17    44    15    0    1
+17    16    17    0    0
+20    20    19    0    0
+20    26    20    0    0
+26    30    23    0    1
+ Orders: 14 [Norm: 5, Froz:3, VIP:4,Politicians: 2Disabled: 0]
+ MotorC: 21 [Norm: 7, Froz:7, VIP:7]
+Avg Wait =0.428571, Avg Serv =1.07143
+ Region C:
+FT    ID    AT     WT    ST
+6    300    1    0    2
+11    11    10    0    0
+13    22    11    0    1
+12    26    12    0    0
+15    44    11    0    2
+15    8    12    0    1
+16    10    7    8    0
+16    14    16    0    0
+27    17    17    0    5
+25    32    23    0    1
+ Orders: 10 [Norm: 5, Froz:2, VIP:2,Politicians: 1,Disabled: 0]
+ MotorC: 21 [Norm: 7, Froz:7, VIP:7]
+Avg Wait =0.8, Avg Serv =1.2
+ Region D:
+FT  ID  AT   WT  ST
+8    500    4    0    2
+12    20    12    0    0
+12    21    12    0    0
+12    22    12    0    0
+12    23    12    0    0
+13    27    13    0    0
+19    11    9    6    2
+19    18    18    0    0
+20    19    18    0    1
+20    24    19    0    0
+24    34    23    0    0
+26    70    25    0    0
+ Orders: 12 [Norm: 3, Froz:4, VIP:4,Politicians: 1,Disabled: 0]
+ MotorC: 21 [Norm: 7, Froz:7, VIP:7]
+Avg Wait =0.5, Avg Serv =0.416667
+  informations for whole restaurant : 
+ Orders: 47 [Norm: 19, Froz:11, VIP:12,Politicians: 5,Disabled: 0]
+ MotorC: 84 [Norm: 28, Froz:28, VIP:28]
+Avg Wait =0.595745, Avg Serv =1.14894
